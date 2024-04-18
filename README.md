@@ -19,7 +19,7 @@ Hence, less tokens/second speed for model inference, but at a lower hardware req
 
 > How are we using these models in Python?
 
-Check out the demo notebook for sample inference of 5-bit Quantized Mistral 7B Instruct Model from [TheBloke from HuggingFace](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF).
+Check out the [demo notebook](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/blob/main/demo_loading_gguf_model.ipynb) for sample inference of 5-bit Quantized Mistral 7B Instruct Model from [TheBloke from HuggingFace](https://huggingface.co/TheBloke/Mistral-7B-Instruct-v0.1-GGUF).
 
 
 ## List of Projects
