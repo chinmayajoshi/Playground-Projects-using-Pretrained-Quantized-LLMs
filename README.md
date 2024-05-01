@@ -23,4 +23,17 @@ Check out the [demo notebook](https://github.com/chinmayajoshi/Playground-Projec
 
 
 ## List of Projects
-TODO
+
+All projects present in the [/projects](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/tree/main/projects) directory.
+
+1. <u>_Interpretable Sentiment Analysis_ :</u> 
+
+Interpretable Sentiment Analysis on Tweets using 5-bit Mistral 7b Instruct Model.<br>
+Checkout the [notebook](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/blob/main/projects/sentiment%20analysis/predicting_sentiment.ipynb) here. Work in progress.
+
+TODO- run for all tweets<br>
+TODO- compare llm output with true labels
+
+ 2. <u>_Image Classification using LLM_:</u> 
+
+CIFAR-10 Image conversion to ASCII Text, used as an input for the LLM.<br>Tried to check the ASCII text quality for images as an input to the LLM. Stopped after seeing the ASCII text for now [notebook](https://github.com/chinmayajoshi/Playground-Projects-using-Pretrained-Quantized-LLMs/blob/main/projects/image2ascii/image2ascii.ipynb). Might continue later.
