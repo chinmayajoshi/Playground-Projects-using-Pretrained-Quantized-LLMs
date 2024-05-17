@@ -7,7 +7,7 @@ All notebooks and scripts in this repo use the [Python binding](https://github.c
 
 > What are .gguf models?
 
-GGUF is a file extension for Quantized Model files which converts FP32/FP16 bit model weights into 8bit/5bit/4bit/etc 
+GGUF is a file extension for Quantized Model files which converts FP32/FP16/BF16 bit model weights into 8bit/5bit/4bit/etc 
 
 
 > Why use .gguf models?
