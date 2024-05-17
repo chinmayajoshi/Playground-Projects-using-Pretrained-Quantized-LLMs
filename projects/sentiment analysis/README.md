@@ -9,7 +9,7 @@ This repository contains a Python script for performing sentiment analysis on tw
 - [Description](#description)
 - [Model and Dataset](#model-and-dataset)
 - [Results](#results)
-- [Miscellaneous](#Miscellaneous)
+- [Miscellaneous](#miscellaneous-parting-thoughts)
 
 ## Installation
 
